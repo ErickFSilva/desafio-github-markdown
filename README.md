@@ -12,5 +12,9 @@ Após alguns anos trabalhando com suporte à usuários estou me preparando, com 
 
 Tecnologias que tenho estudado e praticado em cursos: MySQL, Linux, Git/GitHub.
 
-> - Formando em Banco de Dados pela GRAN Faculdade.
-> - Certificado ITIL4 FOUNDATION pela PeopleCert.
+---
+
+### Minhas formações:
+
+- Formando em Banco de Dados pela GRAN Faculdade.
+- Certificado ITIL4 FOUNDATION pela PeopleCert.
